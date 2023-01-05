@@ -1,2 +1,2 @@
-# spreadsheet-chart-image
-Googleスプレッドシートのデータから連続でグラフを生成しPNG画像でGoogleドライブに保存するプログラム
+# Googleスプレッドシートのデータから連続でグラフを生成しPNG画像でGoogleドライブに保存するプログラム
+
