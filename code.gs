@@ -18,7 +18,7 @@ function start(){
 function saveChart(filename) {
   var charts  = sheet.getCharts();
   var imageBlob = charts[0].getBlob().getAs('image/png').setName(filename);
-  var folder = DriveApp.getFolderById('1nKM89vCEnVxcN8A2eqTB7Ijx5qKWk1rC');
+  var folder = DriveApp.getFolderById('フォルダID');
   folder.createFile(imageBlob);
 }
 
